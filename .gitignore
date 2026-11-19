@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Data
+data/raw/*
+data/processed/*
+data/external/*
+
+# Model artifacts
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# MLflow
+mlruns/
+
+# IDE
+.vscode/
+.DS_Store
