@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python
 __pycache__/
 *.py[cod]
@@ -26,3 +27,11 @@ mlruns/
 # IDE
 .vscode/
 .DS_Store
+=======
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin
+>>>>>>> 0341f231bc03d4ee596135f45e278954f1bcbac2
